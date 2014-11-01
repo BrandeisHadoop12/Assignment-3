@@ -48,3 +48,5 @@ release.properties
 # Project Specific Files #
 ######################
 inputHead1000000.txt
+.idea/
+
